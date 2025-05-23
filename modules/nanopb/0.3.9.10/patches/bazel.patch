@@ -1,0 +1,9 @@
+diff --git a/MODULE.bazel b/MODULE.bazel
+index 8aaa68e..91487ee 100644
+--- a/MODULE.bazel
++++ b/MODULE.bazel
+    @@ -0,0 +1,4 @@
+    +module(
+    +    name = "nanopb",
+    +    version = "0.3.9.10",
+    +)

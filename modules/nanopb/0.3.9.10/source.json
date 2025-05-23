@@ -1,0 +1,9 @@
+{
+    "url": "https://jpa.kapsi.fi/nanopb/download/nanopb-0.3.9.10.tar.gz",
+    "integrity": "sha256-hzge/U31Y33Fxk5g8zBrxie9qmgykac/kSnE+NkqglA=",
+    "strip_prefix": "nanopb",
+    "patches": {
+        "bazel.patch": "sha256-ImdFrDWxY3t2CCv27N7Td/vrhqOrPboJPJsGaGffv1I="
+    },
+    "patch_strip": 1
+}
