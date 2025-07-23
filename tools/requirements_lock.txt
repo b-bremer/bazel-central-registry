@@ -23,9 +23,9 @@ attrs==25.3.0 \
     #   cyclopts
     #   jsonschema
     #   referencing
-authlib==1.6.0 \
-    --hash=sha256:4367d32031b7af175ad3a323d571dc7257b7099d55978087ceae4a0d88cd3210 \
-    --hash=sha256:91685589498f79e8655e8a8947431ad6288831d643f11c55c2143ffcc738048d
+authlib==1.6.1 \
+    --hash=sha256:4dffdbb1460ba6ec8c17981a4c67af7d8af131231b5a36a88a1e8c80c111cdfd \
+    --hash=sha256:e9d2031c34c6309373ab845afc24168fe9e93dc52d252631f52642f21f5ed06e
     # via fastmcp
 bazel-runfiles==1.5.1 \
     --hash=sha256:b7c9e93a31dbaf20d49817df2051b64acde870fcc8508d5796e290a101510773
@@ -253,9 +253,9 @@ dnspython==2.7.0 \
     --hash=sha256:b4c34b7d10b51bcc3a5071e7b8dee77939f1e878477eeecc965e9835f63c6c86 \
     --hash=sha256:ce9c432eda0dc91cf618a5cedf1a4e142651196bbcd2c80e89ed5a907e5cfaf1
     # via email-validator
-docstring-parser==0.16 \
-    --hash=sha256:538beabd0af1e2db0146b6bd3caa526c35a34d61af9fd2887f3a8a27a739aa6e \
-    --hash=sha256:bf0a1387354d3691d102edef7ec124f219ef639982d096e26e3b60aeffa90637
+docstring-parser==0.17.0 \
+    --hash=sha256:583de4a309722b3315439bb31d64ba3eebada841f2e2cee23b99df001434c912 \
+    --hash=sha256:cf2569abd23dce8099b300f9b4fa8191e9582dda731fd533daf54c4551658708
     # via cyclopts
 docutils==0.21.2 \
     --hash=sha256:3a6b18732edf182daa3cd12775bbb338cf5691468f91eeeb109deff6ebfa986f \
@@ -301,9 +301,9 @@ idna==3.10 \
     #   email-validator
     #   httpx
     #   requests
-jsonschema==4.24.0 \
-    --hash=sha256:0b4e8069eb12aedfa881333004bccaec24ecef5a8a6a4b6df142b2cc9599d196 \
-    --hash=sha256:a462455f19f5faf404a7902952b6f0e3ce868f3ee09a359b05eca6673bd8412d
+jsonschema==4.25.0 \
+    --hash=sha256:24c2e8da302de79c8b9382fee3e76b355e44d2a4364bb207159ce10b517bd716 \
+    --hash=sha256:e63acf5c11762c0e6672ffb61482bdf57f0876684d8d249c0fe2d730d48bc55f
     # via mcp
 jsonschema-specifications==2025.4.1 \
     --hash=sha256:4653bffbd6584f7de83a67e0d620ef16900b390ddc7939d56684d6c81e33f1af \
@@ -789,9 +789,9 @@ sse-starlette==2.4.1 \
     --hash=sha256:08b77ea898ab1a13a428b2b6f73cfe6d0e607a7b4e15b9bb23e4a37b087fd39a \
     --hash=sha256:7c8a800a1ca343e9165fc06bbda45c78e4c6166320707ae30b416c42da070926
     # via mcp
-starlette==0.47.1 \
-    --hash=sha256:5e11c9f5c7c3f24959edbf2dffdc01bba860228acf657129467d8a7468591527 \
-    --hash=sha256:aef012dd2b6be325ffa16698f9dc533614fb1cebd593a906b90dc1025529a79b
+starlette==0.47.2 \
+    --hash=sha256:6ae9aa5db235e4846decc1e7b79c4f346adf41e9777aebeb49dfd09bbd7023d8 \
+    --hash=sha256:c5847e96134e5c5371ee9fac6fdf1a67336d5815e09eb2a01fdb57a351ef915b
     # via mcp
 typing-extensions==4.14.1 \
     --hash=sha256:38b39f4aeeab64884ce9f74c94263ef78f3c22467c8724005483154c26648d36 \
